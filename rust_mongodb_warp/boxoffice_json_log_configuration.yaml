@@ -1,0 +1,24 @@
+refresh_rate: 10 seconds
+appenders:
+ stdout:
+  kind: console
+  encoder:
+   kind: json
+ boxoffice_logger:
+  kind: rolling_file
+  path: "log/boxoffice_json_log.log"
+  encoder:
+   kind: json
+  policy:
+   trigger:
+    kind: size
+    limit: 30kb
+   roller:
+    kind: fixed_window
+    base: 1
+    count: 5
+    pattern: "log/boxoffice_json_log{}.log"
+root:
+ level: info
+ appenders:
+  - boxoffice_logger

@@ -1,0 +1,213 @@
+{
+  "fields": [
+    {
+      "name": "_id",
+      "path": "_id",
+      "count": 3,
+      "types": [
+        {
+          "name": "ObjectID",
+          "bsonType": "ObjectID",
+          "path": "_id",
+          "count": 3,
+          "values": [
+            "641ab04ef86b5a874770e010",
+            "641ab5e56afe16505099a471",
+            "641ab58d6afe16505099a470"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 3,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 3,
+      "type": "ObjectID",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "BudgetCrores",
+      "path": "BudgetCrores",
+      "count": 3,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "BudgetCrores",
+          "count": 3,
+          "values": [
+            "4.5",
+            "14",
+            "3.5"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 3,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 3,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "CollectionCrores",
+      "path": "CollectionCrores",
+      "count": 3,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "CollectionCrores",
+          "count": 3,
+          "values": [
+            "9",
+            "35.45",
+            "9.5"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 3,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 3,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "MovieID",
+      "path": "MovieID",
+      "count": 3,
+      "types": [
+        {
+          "name": "Int32",
+          "bsonType": "Int32",
+          "path": "MovieID",
+          "count": 3,
+          "values": [
+            1,
+            3,
+            2
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 3,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 3,
+      "type": "Int32",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "Production House",
+      "path": "Production House",
+      "count": 3,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "Production House",
+          "count": 3,
+          "values": [
+            "RGV Films",
+            "Maruti International",
+            "Vishesh Films"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 3,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 3,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "Title",
+      "path": "Title",
+      "count": 3,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "Title",
+          "count": 3,
+          "values": [
+            "Darna Mana Hai",
+            "Maan",
+            "Saathi"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 3,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 3,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "Verdict",
+      "path": "Verdict",
+      "count": 3,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "Verdict",
+          "count": 3,
+          "values": [
+            "SUPER HIT",
+            "BLOCKBUSTER",
+            "BLOCKBUSTER"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 2,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 3,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "YearOfRelease",
+      "path": "YearOfRelease",
+      "count": 3,
+      "types": [
+        {
+          "name": "Int32",
+          "bsonType": "Int32",
+          "path": "YearOfRelease",
+          "count": 3,
+          "values": [
+            2003,
+            1999,
+            1991
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 3,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 3,
+      "type": "Int32",
+      "has_duplicates": false,
+      "probability": 1
+    }
+  ],
+  "count": 3
+}

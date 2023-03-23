@@ -1,0 +1,104 @@
+Hardware :- 
+
+Processor	- Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz, 2601 Mhz, 2 Core(s), 4 Logical Processor(s)
+Installed RAM	- 16.0 GB (15.7 GB usable)
+System type	- 64-bit operating system, x64-based processor
+Pen and touch	- No pen or touch input is available for this display
+-------------------------------
+Operating System :- 
+
+OS Name	        - Microsoft Windows 10 Pro
+Version	Details - 10.0.19045 Build 19045
+
+Edition	Windows - 10 Pro
+Version	Number  - 22H2
+Installed on	‎- 29-‎08-‎2022
+OS build	- 19045.2728
+Experience	- Windows Feature Experience Pack 120.2212.4190.0
+
+----------------------------
+Rust Compiler Version :- 
+
+Command :- rustc --version
+
+Output  :- rustc 1.68.0 (2c8cc3432 2023-03-06)
+-----------------------
+Rust toolchain :- 
+
+Command  :- rustup toolchain list
+
+Output   :- 
+stable-x86_64-pc-windows-msvc (default)
+nightly-2023-01-05-x86_64-pc-windows-msvc
+nightly-x86_64-pc-windows-msvc
+1.50.0-x86_64-pc-windows-msvc
+
+--------------------
+MongoDB Version :- 
+
+mongodb-windows-x86_64-6.0.4
+
+HOST    -  localhost:27017
+CLUSTER -  Standalone
+EDITION -  MongoDB 6.0.4 Community
+
+
+
+Command :- mongod -version
+
+Output  :- 
+db version v6.0.4
+Build Info: {
+    "version": "6.0.4",
+    "gitVersion": "44ff59461c1353638a71e710f385a566bcd2f547",
+    "modules": [],
+    "allocator": "tcmalloc",
+    "environment": {
+        "distmod": "windows",
+        "distarch": "x86_64",
+        "target_arch": "x86_64"
+    }
+}
+
+-----------
+MongoDB Compass 
+
+mongodb-compass-1.28.4-win32-x64
+
+Version - 1.28.4 
+
+-----------------
+For Database Information e.g. Schema, Collection
+Please refer DatabaseHelp Folder.
+
+-------------------
+IDE Used :- 
+
+Visual Studio Code 
+
+Version: 1.76.2 (user setup)
+Commit: ee2b180d582a7f601fa6ecfdad8d9fd269ab1884
+Date: 2023-03-14T17:55:54.936Z
+Electron: 19.1.11
+Chromium: 102.0.5005.196
+Node.js: 16.14.2
+V8: 10.2.154.26-electron.0
+OS: Windows_NT x64 10.0.19045
+Sandboxed: Yes
+
+------
+
+REST API testing tool
+
+Name: Thunder Client
+Id: rangav.vscode-thunder-client
+Description: Lightweight Rest API Client for VS Code
+Version: 2.5.1
+Publisher: Ranga Vadhineni
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
+
+--------------------
+
+For JSON Request Collection refer thunder-collection_MoviesJSON.json file.
+
+---------------------------------------------------------------------------------------

@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "641ab04ef86b5a874770e010"
+  },
+  "MovieID": 1,
+  "Title": "Darna Mana Hai",
+  "Production House": "RGV Films",
+  "YearOfRelease": 2003,
+  "BudgetCrores": "4.5",
+  "CollectionCrores": "9",
+  "Verdict": "SUPER HIT"
+},{
+  "_id": {
+    "$oid": "641ab58d6afe16505099a470"
+  },
+  "MovieID": 2,
+  "Title": "Saathi",
+  "Production House": "Vishesh Films",
+  "YearOfRelease": 1991,
+  "BudgetCrores": "3.5",
+  "CollectionCrores": "9.5",
+  "Verdict": "BLOCKBUSTER"
+},{
+  "_id": {
+    "$oid": "641ab5e56afe16505099a471"
+  },
+  "MovieID": 3,
+  "Title": "Maan",
+  "Production House": "Maruti International",
+  "YearOfRelease": 1999,
+  "BudgetCrores": "14",
+  "CollectionCrores": "35.45",
+  "Verdict": "BLOCKBUSTER"
+}]

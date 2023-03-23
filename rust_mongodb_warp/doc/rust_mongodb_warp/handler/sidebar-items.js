@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["create_movie_handler","delete_movie_handler","read_movies_handler","update_movie_handler","validate_create_movie_request","validate_delete_movie_id","validate_update_movie_id"],"opaque":[""],"type":["Result"]};

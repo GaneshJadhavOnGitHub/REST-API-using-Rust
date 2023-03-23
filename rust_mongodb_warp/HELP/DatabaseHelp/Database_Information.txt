@@ -1,0 +1,10 @@
+Database Name   :- BoxOffice
+Collection Name :- Movies
+
+BoxOffice_Schema.json file contains 'BoxOffice' database schema.
+Movies.json file contains exported 'BoxOffice.Movies' collection.
+
+MongoDB running locally on port number 27017 
+Admin database is not created.
+Admin database stores administrator and users' usernames, passwords, and roles.
+user id and password are not set.

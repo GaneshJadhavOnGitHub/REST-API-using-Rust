@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["populate_create_movie_response","populate_db_operation_failed_error_response","populate_delete_movie_response","populate_read_movies_response","populate_update_movie_response"]};

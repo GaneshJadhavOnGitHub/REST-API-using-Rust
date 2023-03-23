@@ -1,0 +1,75 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "MoviesJSON",
+    "dateExported": "2023-03-22T08:11:01.038Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "d4ee92ef-1716-48d9-b736-4b74d2556d80",
+            "colId": "fd4fd4ad-df3d-423d-9473-5063d01baa5a",
+            "containerId": "",
+            "name": "http://localhost:8080/movie",
+            "url": "http://localhost:8080/boxoffice/movies/v1/createmovie",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2023-03-22T08:09:58.931Z",
+            "modified": "2023-03-22T08:09:58.931Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"movieId\": 4,\n  \"title\": \"Gardish\",\n  \"productionHouse\": \"Shogun Films\",\n  \"yearOfRelease\": 1993,\n  \"budgetCrores\": \"2.70\",\n  \"collectionCrores\": \"7.39\"\n}\n\n",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "d52ba8b8-3d44-4792-8ed0-781421d82e72",
+            "colId": "fd4fd4ad-df3d-423d-9473-5063d01baa5a",
+            "containerId": "",
+            "name": "http://localhost:8080/movie/2",
+            "url": "http://localhost:8080/boxoffice/movies/v1/deletemovie/4",
+            "method": "DELETE",
+            "sortNum": 20000,
+            "created": "2023-03-22T08:10:16.695Z",
+            "modified": "2023-03-22T08:10:16.695Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "60889c47-b58c-4cba-8bd2-31887f95b5f4",
+            "colId": "fd4fd4ad-df3d-423d-9473-5063d01baa5a",
+            "containerId": "",
+            "name": "http://localhost:8080/movie/2",
+            "url": "http://localhost:8080/boxoffice/movies/v1/updatemovie/4",
+            "method": "PUT",
+            "sortNum": 30000,
+            "created": "2023-03-22T08:10:27.299Z",
+            "modified": "2023-03-22T08:10:27.299Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"title\": \"GARDISH\",\n  \"productionHouse\": \"SHOGUN FILMS\",\n  \"yearOfRelease\": 1993,\n  \"budgetCrores\": \"2.7\",\n  \"collectionCrores\": \"5.57\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "a31f2d0a-0079-4497-bfc0-14f10eb2e1b3",
+            "colId": "fd4fd4ad-df3d-423d-9473-5063d01baa5a",
+            "containerId": "",
+            "name": "http://localhost:8080/movie",
+            "url": "http://localhost:8080/boxoffice/movies/v1/readmovies",
+            "method": "GET",
+            "sortNum": 40000,
+            "created": "2023-03-22T08:10:34.897Z",
+            "modified": "2023-03-22T08:10:34.898Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}

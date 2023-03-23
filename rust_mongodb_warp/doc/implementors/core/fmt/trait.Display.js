@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"rust_mongodb_warp":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/fmt/trait.Display.html\" title=\"trait core::fmt::Display\">Display</a> for <a class=\"enum\" href=\"rust_mongodb_warp/error/enum.BoxOfficeError.html\" title=\"enum rust_mongodb_warp::error::BoxOfficeError\">BoxOfficeError</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
