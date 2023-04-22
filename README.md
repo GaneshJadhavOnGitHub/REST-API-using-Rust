@@ -1,5 +1,5 @@
 # REST-API-using-Rust
-A simple REST API application, implemented in rust programming language. All the four API's (GET, POST, PUT, DELETE) are implemented. MongoDB is used as database.
+A simple REST API application, implemented in rust programming language. The four API's (GET, POST, PUT, DELETE) are implemented. MongoDB is used as database.
 
 Application takes information for a movie and calculates Verdict of that Movie.
 
