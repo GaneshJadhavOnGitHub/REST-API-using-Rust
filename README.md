@@ -50,5 +50,27 @@ cargo run
 
 Send requests from Thunder Client.
 
+-------------------------
+
+OUTPUT :- 
 
 
+1. POST 
+
+![POST](https://user-images.githubusercontent.com/86361080/233766087-7cbe290a-2e9f-4dc3-b0fd-78c340942dac.png)
+
+
+2. GET 
+
+![GET](https://user-images.githubusercontent.com/86361080/233766108-94081c3c-3da1-4b76-a2a2-8759a5b62d4a.png)
+
+
+3. PUT 
+
+![PUT](https://user-images.githubusercontent.com/86361080/233766145-c47f70b8-86e7-4822-926a-3b19548cbc24.png)
+
+4. DELETE 
+
+![DELETE](https://user-images.githubusercontent.com/86361080/233766161-2f0f0596-3404-4ce4-889f-84f88df8f9da.png)
+
+-----------
