@@ -7,7 +7,7 @@ Features :-
 1. Input and Business Validations are done.
 2. Error Handling is done.
 3. Rolling JSON logs are provided.
-4. Rust docs are generated from rust doc comments.
+
 
 Please refer HELP folder for any kind of help.
 
