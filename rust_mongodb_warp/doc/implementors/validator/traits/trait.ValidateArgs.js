@@ -1,3 +1,0 @@
-(function() {var implementors = {
-"rust_mongodb_warp":[["impl&lt;'v_a&gt; ValidateArgs&lt;'v_a&gt; for <a class=\"struct\" href=\"rust_mongodb_warp/request_response_structs/struct.CreateMovieRequest.html\" title=\"struct rust_mongodb_warp::request_response_structs::CreateMovieRequest\">CreateMovieRequest</a>"],["impl&lt;'v_a&gt; ValidateArgs&lt;'v_a&gt; for <a class=\"struct\" href=\"rust_mongodb_warp/request_response_structs/struct.UpdateMovieRequest.html\" title=\"struct rust_mongodb_warp::request_response_structs::UpdateMovieRequest\">UpdateMovieRequest</a>"]]
-};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

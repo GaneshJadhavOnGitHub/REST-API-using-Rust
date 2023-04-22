@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["calculate_percentage","calculate_verdict"]};

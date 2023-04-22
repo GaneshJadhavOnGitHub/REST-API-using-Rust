@@ -1,3 +1,0 @@
-(function() {var implementors = {
-"rust_mongodb_warp":[["impl <a class=\"trait\" href=\"https://docs.rs/warp/0.3.3/warp/reject/trait.Reject.html\" title=\"trait warp::reject::Reject\">Reject</a> for <a class=\"enum\" href=\"rust_mongodb_warp/error/enum.BoxOfficeError.html\" title=\"enum rust_mongodb_warp::error::BoxOfficeError\">BoxOfficeError</a>"]]
-};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

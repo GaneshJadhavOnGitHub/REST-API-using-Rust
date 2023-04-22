@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["assets_filter","with_db"],"opaque":[""]};

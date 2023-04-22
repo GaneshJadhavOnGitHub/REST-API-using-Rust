@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["main"],"mod":["business_layer","constants","db_layer","error","handler","model","request_response_structs","response","routes"],"type":["Result","WebResult"]};

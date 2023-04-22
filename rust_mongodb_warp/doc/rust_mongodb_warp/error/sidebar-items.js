@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":["FIELDS"],"enum":["BoxOfficeError","__Field"],"fn":["handle_rejection","validation_error_to_string_vector"],"opaque":[""],"struct":["ErrorResponse","RequestFieldError","__FieldVisitor","__Visitor"]};
