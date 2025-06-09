@@ -8,6 +8,10 @@ Features :-
 2. Error Handling is done.
 3. Rolling JSON logs are provided.
 
+Note : CORS (Cross-Origin Resource Sharing) is an HTTP protocol mechanism that allows servers to specify which origins 
+(domains, schemes, or ports) are permitted to access resources on the server. 
+It is primarily used to enable secure cross-origin requests, 
+such as when a web application on one domain requests resources hosted on another domain.
 
 Please refer HELP folder for any kind of help.
 
