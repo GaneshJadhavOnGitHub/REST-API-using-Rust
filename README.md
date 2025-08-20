@@ -81,4 +81,43 @@ OUTPUT :-
 
 ![DELETE](https://user-images.githubusercontent.com/86361080/233766161-2f0f0596-3404-4ce4-889f-84f88df8f9da.png)
 
+
+__Repository Tree Structure__
+
+```
+├── LICENSE
+├── README.md
+└── rust_mongodb_warp
+    ├── .future-incompat-report.json
+    ├── .rustc_info.json
+    ├── CACHEDIR.TAG
+    ├── Cargo.lock
+    ├── Cargo.toml
+    ├── HELP
+        ├── Application_Requirements.txt
+        ├── DatabaseHelp
+        │   ├── BoxOffice_Schema.json
+        │   ├── Database_Information.txt
+        │   └── Movies.json
+        └── thunder-collection_MoviesJSON.json
+    ├── Output
+        ├── DELETE.png
+        ├── GET.png
+        ├── POST.png
+        └── PUT.png
+    ├── boxoffice_json_log_configuration.yaml
+    └── src
+        ├── business_layer.rs
+        ├── constants.rs
+        ├── db_layer.rs
+        ├── error.rs
+        ├── handler.rs
+        ├── main.rs
+        ├── model.rs
+        ├── request_response_structs.rs
+        ├── response.rs
+        └── routes.rs
+
+```
+
 -----------
